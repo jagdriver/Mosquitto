@@ -1,0 +1,3 @@
+user manager
+topic readwrite #
+topic read $SYS/broker/#
